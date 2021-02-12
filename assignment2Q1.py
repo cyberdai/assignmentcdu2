@@ -235,7 +235,7 @@ def main():
 main()
 
 # Drawing of car
-#wheel 1
+# Drawing of car wheel 1
 trt_l.penup()
 trt_l.goto(180, -79)
 trt_l.color("brown","black")
@@ -244,7 +244,7 @@ trt_l.begin_fill()
 trt_l.circle(20)
 trt_l.end_fill()
 
-#wheel 2
+#Drawing of the car wheel 2
 trt_l.penup()
 trt_l.goto(270, -79)
 trt_l.color("brown","black")
